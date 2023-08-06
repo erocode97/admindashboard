@@ -15,4 +15,3 @@
 </h1>
 
 <img src="preview.gif">
-"# admindashboard" 
